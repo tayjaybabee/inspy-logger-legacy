@@ -1,2 +1,5 @@
 *.lock
 /.idea
+/build
+/dist
+*.egg-info
