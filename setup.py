@@ -6,7 +6,7 @@ setup(
     name='inspy-logger',
     version='1.0',
     packages=['inspy_logger'],
-    url='https:/github.com/Inspyre-Softworks/inspy_logger',
+    url='https://softworks.inspyre.tech',
     license='WTFYW',
     author='Taylor-Jayde B. Blackstone',
     author_email='t.blackstone@inspyre.tech',
