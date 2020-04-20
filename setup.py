@@ -1,7 +1,9 @@
+import setuptools
+import setuptools_autover
 from distutils.core import setup
 
 setup(
-    name='inspy_logger',
+    name='inspy-logger',
     version='1.0',
     packages=['inspy_logger'],
     url='https:/github.com/Inspyre-Softworks/inspy_logger',
