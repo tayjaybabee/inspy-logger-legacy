@@ -24,7 +24,7 @@ An example module to show the basic usage of inspy-logger w/ line-comment instru
 # This is the only line that differs between basic_logger_verbose.py and basic_logger_non_verbose.py
 log = start_log('Application', True)
 
-# Assign your most commenly used log level calls to single-simple-word variables with ease without
+# Assign your most commonly used log level calls to single-simple-word variables with ease without
 # losing import information to efficiency
 info = log.info
 info('This is a test of the inspy-logger package')
