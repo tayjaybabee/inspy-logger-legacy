@@ -20,6 +20,7 @@ An example module to show the basic usage of inspy-logger w/ line-comment instru
 # Todo:
 #     - Add more output levels/modes (eg (at least) debug, info, quiet, silent)
 
+# This is the only line that differs between basic_logger_verbose.py and basic_logger_non_verbose.py
 log = start_log('Application')
 
 # Assign your most commenly used log level calls to single-simple-word variables with ease without
