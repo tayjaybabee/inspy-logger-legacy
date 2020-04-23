@@ -3,3 +3,12 @@
 /build
 /dist
 *.egg-info
+*.iml
+
+source/
+
+# Protect key files
+.github_token
+Makefile
+inspy_logger/__pycache__/
+make.bat
