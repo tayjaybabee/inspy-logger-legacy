@@ -1,14 +1,12 @@
+*.egg-info
 *.lock
-/.idea
 /build
 /dist
-*.egg-info
-/.idea/inspy_logger.iml
-
 source/
 
 # Protect key files
 .github_token
-Makefile
+/.idea/
 inspy_logger/__pycache__/
 make.bat
+Makefile
