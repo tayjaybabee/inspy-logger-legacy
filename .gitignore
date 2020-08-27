@@ -7,6 +7,6 @@ source/
 # Protect key files
 .github_token
 /.idea/
-inspy_logger/__pycache__/
+*/__pycache__/
 make.bat
 Makefile
